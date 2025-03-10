@@ -1,0 +1,11 @@
+Algoritmo NumerosAnteriores
+    Definir num1 Como Entero
+    Definir i Como Entero
+    Escribir "Introduce un número entero:"
+    Leer num1
+    Escribir "Los números anteriores a ", num1, " son:"
+    Para i Desde num1 - 1 Hasta 1 Con Paso -1 Hacer
+        Escribir i
+    Fin Para
+Fin Algoritmo
+
